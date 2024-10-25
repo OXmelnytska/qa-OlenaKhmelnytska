@@ -1,86 +1,3 @@
-is
-ls
-ls -lts
-ls ./
-ls ./Projects/
-ls ./Projects/my\ projects/
-ls ./../
-ls /
-pwd
-cd ../../
-cd ../../../
-clear
-mkdir
-mkdir projects
-mkdir projects
-pwd
-cd 
-pwd
-mkdir projects
-mkdir projects
-mkdir projects
-mkdir projects
-mkdir projects
-cd pr
-cd projects/
-cat > index.html
-cd /var/log
- help
-clear
-grep --help
-sd ~
-cd ~
-pwd
-pwd
-ls
-sd projects/
-cd projects/
-whitch pwd
-which pwd
-which cd
-hello-world
-which mv
-cd /bin
-ls
-cd ~/projects/
-cat > hello-world
-hello-world
-echo $PATH
-PATH=~/projects:$PATH
-echo $PATH
-hello-world
-hello-world
-clear
-hello-world
-
-hello-world
-alias home="cd ~"
-cd projects/
-home
-nano ~/.bachprofile
-home
-cd project
-cd projects/
-home
-clear
-git push -u origin main
-sd ..
-cd ..
-cd my-project
-cd path my-project
-git push -u origin main
-~ cd projects/my-project
-cd projects/my-project
-git push -u origin main
-[200~sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"~
-[200~sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"~
-[200~sh -c "$(curl -fsSL~
-[200~https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"~
-[200~git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions~
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
-[200~nano ~/.zshrc~
-cd realworld-master
-pwd
 ls
 ls -lta
 ls -l
@@ -389,3 +306,195 @@ $ git add Documentation/\*.txt         ../.VirtualBox/
         ../VSCodeUserSetup-x64-1.93.1.exe
         ../Videos/
         ../VirtualBox-6.1.14-140239-Win.exe
+
+cd ~/qa_OlenaKhmelnytska/
+git st
+git add ../.bash_history
+        ../.bash_profile
+        ../.gitbach
+        ../.gitconfig
+        ../.lesshst
+        ../.ssh/
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../Application Data/
+        ../Contacts/
+        ../Cookies/
+        ../Creative Cloud Files/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Git-2.46.1-64-bit.exe
+cd ~/qa_OlenaKhmelnytska/
+git st
+git add ../.bash_profile
+        ../.gitbach
+        ../.gitconfig
+        ../.lesshst
+        ../.ssh/
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../Application Data/
+        ../Contacts/
+        ../Cookies/
+        ../Creative Cloud Files/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Git-2.46.1-64-bit.exe
+        ../IntelGraphicsProfiles/
+        ../Links/
+        ../Local Settings/
+        ../MicrosoftEdgeBackups/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ../NetHood/
+        ../OneDrive/
+        ../Oracle_VirtualBox_Extension_Pack-7.1.4 (1).vbox-extpack
+        ../Oracle_VirtualBox_Extension_Pack-7.1.4.vbox-extpack
+        ../Recent/
+        ../Saved Games/
+        ../Searches/
+        ../SendTo/
+        ../VSCodeUserSetup-x64-1.93.1.exe
+        ../Videos/
+        ../VirtualBox-6.1.14-140239-Win.exe
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+        ../projects/
+        ./
+        ../realworld-master.zip
+        ../realworld-master/
+        "../\320\234\320\276\320\270 \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\321\213/"
+        "../\320\263\320\273\320\260\320\262\320\275\320\276\320\265 \320\274\320\265\320\275\321\216/"
+git st
+clear
+ssh-keygen -t ed25519 -C "saitovafaina@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "saitovafaina@gmail.com"
+cd ~/qa_OlenaKhmelnytska/
+cd
+git clone git@github.com:Olena Khmelnytska/qa_OlenaKhmelnytska.git
+cd ~/qa_OlenaKhmelnytska/
+git st
+git stutus
+git status
+git status
+git status
+git add ../.gitbach
+        ../.gitconfig
+        ../.lesshst
+        ../.ssh/
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../Application Data/
+        ../Contacts/
+        ../Cookies/
+        ../Creative Cloud Files/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Git-2.46.1-64-bit.exe
+        ../IntelGraphicsProfiles/
+        ../Links/
+        ../Local Settings/
+        ../MicrosoftEdgeBackups/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ../NetHood/
+        ../OneDrive/
+        ../Oracle_VirtualBox_Extension_Pack-7.1.4 (1).vbox-extpack
+        ../Oracle_VirtualBox_Extension_Pack-7.1.4.vbox-extpack
+        ../Recent/
+        ../Saved Games/
+        ../Searches/
+        ../SendTo/
+        ../VSCodeUserSetup-x64-1.93.1.exe
+        ../Videos/
+        ../VirtualBox-6.1.14-140239-Win.exe
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+        ../projects/
+        ./
+        ../realworld-master.zip
+        ../realworld-master/
+        "../\320\234\320\276\320\270 \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\321\213/"
+        "../\320\263\320\273\320\260\320\262\320\275\320\276\320\265 \320\274\320\265\320\275\321\216/"
+git status
+git status
+cat > sign_up.md
+cat > sign_in.md
+cd ~/qa_OlenaKhmelnytska/
+cat > sign_up.md
+cat > sign_in.md
+git status
+git add sign_up.md
+git status
+git add sign_in.md
+git status
+git commit -m "add sign_in.md sign_up.md"
+git commit -m "Add sign_in and sign_up tests"
+git status
+git commit -a "Add sign_in and sign_up tests"
+git commit -m "Add sign_in and sign_up tests"
+git add Documentation/   ../.gitconfig
+        ../.lesshst
+        ../.ssh/
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../Application Data/
+        ../Contacts/
+        ../Cookies/
+        ../Creative Cloud Files/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Git-2.46.1-64-bit.exe
+        ../IntelGraphicsProfiles/
+        ../Links/
+        ../Local Settings/
+        ../MicrosoftEdgeBackups/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ../NetHood/
+        ../OneDrive/
+        ../Oracle_VirtualBox_Extension_Pack-7.1.4 (1).vbox-extpack
+        ../Oracle_VirtualBox_Extension_Pack-7.1.4.vbox-extpack
+        ../Recent/
+        ../Saved Games/
+        ../Searches/
+        ../SendTo/
+        ../VSCodeUserSetup-x64-1.93.1.exe
+        ../Videos/
+        ../VirtualBox-6.1.14-140239-Win.exe
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+        ../projects/
+        automation_tests/
+        ../realworld-master.zip
+        ../realworld-master/
+        ../sign_in.md
+        ../sign_up.md
+        "../\320\234\320\276\320\270 \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\321\213/"
+        "../\320\263\320\273\320\260\320\262\320\275\320\276\320\265 \320\274\320\265\320\275\321\216/"
+\*.txt
+git status
+git add "add sign_in.md and sign_up.md"
+git add "Add sign_in and sign_up tests"
+git commit -m "Add sign_in and sign_up tests"
+git commit -a "Add sign_in and sign_up tests"
