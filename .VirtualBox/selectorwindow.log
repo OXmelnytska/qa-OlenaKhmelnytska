@@ -1,0 +1,17 @@
+00:00:01.596545 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:01.596548 Log opened 2024-10-16T10:27:59.702657900Z
+00:00:01.596549 Build Type: release
+00:00:01.596555 OS Product: Windows 10
+00:00:01.596557 OS Release: 10.0.19045
+00:00:01.596558 OS Service Pack: 
+00:00:01.612923 DMI Product Name: HP 250 G2 Notebook PC
+00:00:01.617489 DMI Product Version: 0975100000005F10000600087
+00:00:01.617510 Firmware type: UEFI
+00:00:01.617880 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.617901 Host RAM: 3988MB (3.8GB) total, 312MB available
+00:00:01.617905 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.617906 Process ID: 4556
+00:00:01.617907 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.618077 Qt version: 5.6.2
+00:00:01.634023 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.482124 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,3 @@
+alias home="cd ~"
+PATH=~/projects:$PATH
+echo "Hello Olena"
